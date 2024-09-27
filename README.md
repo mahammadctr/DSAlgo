@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/mahammadhussain98/DSAlgo/tree/master/0008-string-to-integer-atoi) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mahammadhussain98/DSAlgo/tree/master/1904-second-largest-digit-in-a-string) |
 ## Array
 |  |
