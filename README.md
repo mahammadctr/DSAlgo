@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mahammadhussain98/DSAlgo/tree/master/0008-string-to-integer-atoi) |
+| [0412-fizz-buzz](https://github.com/mahammadctr/DSAlgo/tree/master/0412-fizz-buzz) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mahammadhussain98/DSAlgo/tree/master/1904-second-largest-digit-in-a-string) |
 ## Array
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/mahammadhussain98/DSAlgo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mahammadhussain98/DSAlgo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahammadhussain98/DSAlgo/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/mahammadctr/DSAlgo/tree/master/0412-fizz-buzz) |
 | [2481-strictly-palindromic-number](https://github.com/mahammadhussain98/DSAlgo/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mahammadhussain98/DSAlgo/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mahammadctr/DSAlgo/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
