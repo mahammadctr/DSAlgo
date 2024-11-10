@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mahammadctr/DSAlgo/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/mahammadhussain98/DSAlgo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mahammadhussain98/DSAlgo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahammadhussain98/DSAlgo/tree/master/0349-intersection-of-two-arrays) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mahammadhussain98/DSAlgo/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/mahammadctr/DSAlgo/tree/master/0012-integer-to-roman) |
 | [0412-fizz-buzz](https://github.com/mahammadctr/DSAlgo/tree/master/0412-fizz-buzz) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mahammadhussain98/DSAlgo/tree/master/1904-second-largest-digit-in-a-string) |
 ## Array
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mahammadctr/DSAlgo/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/mahammadhussain98/DSAlgo/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mahammadhussain98/DSAlgo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mahammadhussain98/DSAlgo/tree/master/0231-power-of-two) |
