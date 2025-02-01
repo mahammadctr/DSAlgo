@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/mahammadhussain98/DSAlgo/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/mahammadhussain98/DSAlgo/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mahammadhussain98/DSAlgo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3429-special-array-i](https://github.com/mahammadctr/DSAlgo/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
 | ------- |
