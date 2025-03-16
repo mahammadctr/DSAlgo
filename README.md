@@ -113,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/mahammadctr/DSAlgo/tree/master/0237-delete-node-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/mahammadctr/DSAlgo/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/mahammadctr/DSAlgo/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/mahammadctr/DSAlgo/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
