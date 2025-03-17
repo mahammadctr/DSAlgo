@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahammadctr/DSAlgo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mahammadhussain98/DSAlgo/tree/master/0560-subarray-sum-equals-k) |
 | [1904-second-largest-digit-in-a-string](https://github.com/mahammadhussain98/DSAlgo/tree/master/1904-second-largest-digit-in-a-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/mahammadctr/DSAlgo/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/mahammadhussain98/DSAlgo/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/mahammadhussain98/DSAlgo/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mahammadhussain98/DSAlgo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2308-divide-array-into-equal-pairs](https://github.com/mahammadctr/DSAlgo/tree/master/2308-divide-array-into-equal-pairs) |
 | [3429-special-array-i](https://github.com/mahammadctr/DSAlgo/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/mahammadhussain98/DSAlgo/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mahammadhussain98/DSAlgo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahammadhussain98/DSAlgo/tree/master/0268-missing-number) |
+| [2308-divide-array-into-equal-pairs](https://github.com/mahammadctr/DSAlgo/tree/master/2308-divide-array-into-equal-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mahammadctr/DSAlgo/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/mahammadctr/DSAlgo/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
