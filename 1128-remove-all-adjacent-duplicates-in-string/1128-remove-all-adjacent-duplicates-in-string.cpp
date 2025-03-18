@@ -21,7 +21,7 @@ public:
     // }
         string removeDuplicates(string s) {
         int i = 0, n = s.length();
-        for (int j = 0; j < n; ++j, ++i) {
+        for (int j = 0; j < n; j++, i++) {
             s[i] = s[j];
             if (i > 0 && s[i - 1] == s[i]) 
                 i -= 2;
